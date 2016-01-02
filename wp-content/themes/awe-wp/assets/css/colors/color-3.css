@@ -1,0 +1,147 @@
+a, 
+.topic-container .topic span,
+.service-item:hover .icon,
+.skill-item .circle-text, 
+.skill-item .circle-info, 
+.skill-item .circle-text-half, 
+.circle-info-half,
+.features-item:hover .features-icon,
+.portfolioFilter a:focus, 
+.portfolioFilter a:hover,
+.portfolio-item figure .item-like-icon i,
+.plan-description span,
+.view-all.btn,
+.copyrights a:hover,
+.post .entry-title a:hover,
+.navbar-default .navbar-nav>.active>a, 
+.navbar-default .navbar-nav>.active>a:hover, 
+.navbar-default .navbar-nav>.active>a:focus,
+.navbar-nav>li .sub-menu a:hover,
+.navbar-default .navbar-nav>li>a:hover, 
+.navbar-default .navbar-nav>li>a:focus,
+.widget_categories li a:hover, 
+.widget_archive li a:hover,
+.widget_categories li:hover:after, 
+.widget_archive li:hover:after,
+.widget_recent_entries a:hover,
+.panel-title a,
+.panel-title a.collapsed:hover,
+.panel-group .panel-title:hover a.collapsed:before,
+.main-content .type-post .entry-meta a:hover,
+.comment-author a:hover, 
+.comment-metadata a time:hover,
+.comments-area .reply a:hover,
+.nav-tabs>li.active>a, 
+.nav-tabs>li.active>a:hover, 
+.nav-tabs>li.active>a:focus {
+	color:#e0c124;
+}
+
+
+.btn,
+.btn:hover, 
+.btn-default:focus, 
+.btn-default:active, 
+.section-title.sub,
+.service-item:hover .hex, 
+.service-item:hover .hex:after, 
+.service-item:hover .hex:before,
+.owl-page.active,
+.owl-page,
+.portfolioFilter .current,
+.price-plan-box:hover:after,
+.plan-btn,
+.read-more,
+.view-all.btn,
+.contact-form .form-control:focus,
+.btn-submit,
+.contact-info .contact-details-title span,
+.subscribe-container,
+.subscribe_btn,
+.widget-title,
+.read-on,
+.widget_calendar th,
+.widget_tagcloud a:hover,
+.comment-respond .form-control:focus,
+.errSorrow .round-face,
+.hex ,
+.hex:before, 
+.hex:after {
+	border-color: #e0c124;
+}
+
+.plan-price-box:before {
+	border-bottom-color: #e0c124;
+}
+
+mark,
+.btn:hover, .btn-default:focus, .btn-default:active,
+.right2left-effect.btn:after, .left2right-effect.btn:after, 
+.bottom2top-effect.btn:after, 
+.top2bottom-effect.btn:after, .angle-effect.btn:after,
+.service-item .service-title:before,
+.memeber-details,
+.owl-page.active,
+.award-section, 
+.portfolioFilter .current,
+.plan-btn,
+.social-buttons a:hover:after,
+.price-plan-box .plan-title:before,
+.carousel-indicators li.active,
+.clients-logo,
+.latest-tweet .twitter-icon .icon,
+.navbar-default .navbar-nav>li>a:after,
+.widget_search>form .btn:hover:before,
+.paging-navigation a.active:hover, 
+.paging-navigation a.active,
+.paging-navigation a:hover:after,
+.widget_calendar td a:hover:after,
+.widget_calendar th,
+.widget_tagcloud a:hover,
+.panel-group .panel-title a:before,
+.comment-respond .comment-reply-title:after,
+.entry-social-share a:hover:after,
+blockquote.post-blockquote,
+.attachmentlink,
+.errSorrow .round-face,
+.progress-bar.default-bar,
+.zoom-out-effect.btn:hover:after, .zoom-in-effect.btn:hover:after,
+.btn.bg-btn,
+.hex.hex-bg ,
+.hex.hex-bg:before, 
+.hex.hex-bg:after,
+#scroll-to-top {
+	background-color: #e0c124;
+}
+
+
+.portfolio-item figure:hover:after,
+.portfolio-item figure:after,
+.watch-video .play-btn-container a:hover:after {
+	background-color: rgba(224, 193, 36, 0.6);
+}
+
+
+.watch-video .play-btn-container a:after {
+	background: -webkit-radial-gradient(#e0c124, transparent, transparent);
+	background: -moz-radial-gradient(#e0c124, transparent, transparent);
+	background: -ms-radial-gradient(#e0c124, transparent, transparent);
+	background: -o-radial-gradient(#e0c124, transparent, transparent);
+	background: radial-gradient(#e0c124, transparent, transparent);
+}
+
+
+@media screen and (min-width: 1250px) {
+	.post-navigation .nav-links a { 
+		border-color: #e0c124;
+		background-color: #e0c124;
+	}
+}
+
+@media (max-width: 992px){
+	.toggle_nav_button {
+		background-color: #e0c124;
+	}
+}
+
+
