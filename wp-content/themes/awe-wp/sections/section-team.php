@@ -97,7 +97,7 @@ $id = strtolower(str_replace(' ', '-', $section_menu['name']));
 				</div><!-- /.col-md-3 -->
 				<div class="col-md-3">
 					<div class="award">
-						<span class="award-icon"><i class="fa fa-trophy"></i></span>
+						<span class="award-icon"><i class="fa fa-drupal"></i></span>
 						<span class="award-no"><span class="counter"><?php echo esc_html(zels_get_option('won_numb') ); ?></span></span>
 						<span class="award-details"><?php echo esc_html(zels_get_option('won') ); ?></span>
 					</div><!-- /.award -->

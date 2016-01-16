@@ -444,7 +444,6 @@ h6 {
 	padding: 0;
 }
 #social-buttons {
-	background: url(../../images/background/social-button-bg.jpg) 50% 0 no-repeat fixed;
 	margin: 0 auto;
 	padding: 0;
 }
@@ -2503,16 +2502,16 @@ figure:hover .item-link a:before {
 	bottom: 0px;
 }
 .contact-info .map-marker:after {
-	 background: #9324e1;
+	 background: #18a911;
 }
 .contact-info .map-marker:before {
-	 border-color: #9324e1;
+	 border-color: #18a911;
 }
 .contact-info .envelope:after {
-	 background: #e12444;
+	 background: #c81937;
 }
 .contact-info .envelope:before {
-	border-color: #e12444;
+	border-color: #c81937;
 }
 .contact-info .phone:after {
 	 background: #e0c124;
@@ -2521,10 +2520,10 @@ figure:hover .item-link a:before {
 	border-color: #e0c124; 
 }
 .contact-info .skype:after {
-	 background: #1fb538;
+	 background: #4875B4;
 }
 .contact-info .skype:before {
-	border-color: #1fb538;
+	border-color: #4875B4;
 }
 .contact-info .contact-info-box {
 	text-align: center;
