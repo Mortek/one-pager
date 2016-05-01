@@ -1,6 +1,6 @@
 
 	<!-- service Section -->
-	<section id="feature" class="gray-bg section-padding">
+	<section id="over-mij" class="gray-bg section-padding">
 		<div class="container">
 			<h2 class="section-title sub"><?php echo esc_html(zels_get_option('section_title') ); ?></h2>
 			<div class="row">

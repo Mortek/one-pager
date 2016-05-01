@@ -19,17 +19,17 @@ div.wpcf7 .screen-reader-response {
 	border: 0;
 }
 
-div.wpcf7-mail-sent-ok {
+/*div.wpcf7-mail-sent-ok {
 	border: 2px solid #398f14;
-}
+}*/
 
-div.wpcf7-mail-sent-ng {
+/*div.wpcf7-mail-sent-ng {
 	border: 2px solid #ff0000;
 }
 
 div.wpcf7-spam-blocked {
 	border: 2px solid #ffa500;
-}
+}*/
 
 /*div.wpcf7-validation-errors {
 	border: 2px solid #f7e700;
@@ -75,4 +75,8 @@ div.wpcf7 div.ajax-error {
 
 div.wpcf7 .placeheld {
 	color: #888;
+}
+
+.contact-form-container {
+	display: none;
 }
